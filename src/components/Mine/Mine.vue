@@ -10,7 +10,7 @@
       </el-badge>
     </div>
     <div class="collect">
-        
+        <div>这是一个头像管理</div>
     </div>
     这是个人中心页面
   </div>
